@@ -21,25 +21,33 @@ export async function middleware(request: NextRequest) {
     response.cookies.set({ name: 'NEXT_LOCALE', value: detected, path: '/', maxAge: 60 * 60 * 24 * 365 })
   }
 
-  const supabase = createServerClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
-    {
-      cookies: {
-        get(name: string) {
-          return request.cookies.get(name)?.value
-        },
-        set(name: string, value: string, options: CookieOptions) {
-          response.cookies.set({ name, value, ...options })
-        },
-        remove(name: string, options: CookieOptions) {
-          response.cookies.set({ name, value: '', ...options })
-        },
-      },
+  // Guard against missing Supabase envs on Edge (Vercel). If not set, skip Supabase and avoid 500.
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
+  const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+  if (supabaseUrl && supabaseAnonKey) {
+    try {
+      const supabase = createServerClient(
+        supabaseUrl,
+        supabaseAnonKey,
+        {
+          cookies: {
+            get(name: string) {
+              return request.cookies.get(name)?.value
+            },
+            set(name: string, value: string, options: CookieOptions) {
+              response.cookies.set({ name, value, ...options })
+            },
+            remove(name: string, options: CookieOptions) {
+              response.cookies.set({ name, value: '', ...options })
+            },
+          },
+        }
+      )
+      await supabase.auth.getSession()
+    } catch (err) {
+      // swallow errors from Supabase init to prevent middleware crash on edge
     }
-  )
-
-  await supabase.auth.getSession()
+  }
 
   return response
 }
