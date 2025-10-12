@@ -1,0 +1,91 @@
+{
+  "Header": { "pricing": "Prezzi", "generateVideo": "Genera Video", "signIn": "Accedi", "signOut": "Esci" },
+  "LoginModal": { "title": "Accedi", "github": "Accedi con GitHub", "google": "Accedi con Google" },
+  "HeroSection": { "title": "Crea video straordinari con", "brandName": "Sora2 Ufficiale", "description": "Scopri la potenza rivoluzionaria della tecnologia OpenAI di Sora2. Genera video di qualità cinematografica da testo e immagini.", "ctaButton": "Inizia con Sora2" },
+  "FeaturesSection": {
+    "title": "Perché scegliere il generatore video IA Sora2",
+    "description": "Tecnologia OpenAI Sora2 rivoluzionaria e creazione video professionale.",
+    "features": {
+      "openai": { "title": "Tecnologia OpenAI Sora2", "description": "Basato sul modello di generazione video più avanzato di OpenAI." },
+      "cinema": { "title": "Qualità cinematografica", "description": "Video 1080p fino a 10 secondi con coerenza del personaggio." },
+      "physics": { "title": "Simulazione fisica avanzata", "description": "Movimenti realistici e comprensione di scene complesse." },
+      "textImage": { "title": "Testo & Immagine in Video", "description": "Trasforma subito qualsiasi testo o immagine in video." },
+      "aspectRatios": { "title": "Formati multipli", "description": "Supporto per 16:9, 9:16 e 1:1." },
+      "quality": { "title": "Qualità professionale", "description": "Output pronto per la trasmissione, coerente." },
+      "scenes": { "title": "Scene complesse", "description": "Gestione di soggetti multipli e sfondi sofisticati." },
+      "creator": { "title": "Pensato per i creatori", "description": "Interfaccia intuitiva per creatori e marketer." },
+      "noWatermark": { "title": "Video senza filigrana", "description": "Genera video professionali senza filigrana." }
+    }
+  },
+  "FAQSection": {
+    "title": "Generatore video IA Sora2: FAQ",
+    "subtitle": "Tutto ciò che c'è da sapere su Sora2 e la generazione video IA.",
+    "faqs": {
+      "1": {
+        "question": "Che cos'è Sora2 e in cosa differisce dagli altri generatori video IA?",
+        "answer": "Sora2 è il modello rivoluzionario di OpenAI che crea video di qualità cinematografica con realismo senza precedenti. A differenza di altri generatori, Sora2 comprende la fisica, mantiene la coerenza dei personaggi e genera scene complesse con più soggetti, illuminazione realistica e movimenti naturali, fino a 10 secondi in 1080p."
+      },
+      "2": {
+        "question": "Quali formati e risoluzioni video supporta Sora2?",
+        "answer": "Sora2 genera video professionali in 1080p in diversi formati: 16:9 (YouTube e piattaforme tradizionali), 9:16 (TikTok, Instagram Stories e contenuti mobili) e 1:1 (feed social). I video possono durare fino a 10 secondi con qualità costante."
+      },
+      "3": {
+        "question": "Quanto sono realistiche le simulazioni fisiche di Sora2?",
+        "answer": "Sora2 vanta una comprensione rivoluzionaria della fisica che simula accuratamente fenomeni reali come gravità, dinamica dei fluidi, interazioni tra oggetti, variazioni di illuminazione e proprietà dei materiali. Il risultato sono video estremamente realistici, con movimenti naturali."
+      },
+      "4": {
+        "question": "Sora2 può mantenere la coerenza dei personaggi per tutta la durata del video?",
+        "answer": "Sì! Una delle caratteristiche più impressionanti di Sora2 è la perfetta coerenza dei personaggi. Che si generi da testo o immagini, la stessa persona o lo stesso oggetto mantiene aspetto, abbigliamento e caratteristiche identiche per tutti i 10 secondi del video."
+      },
+      "5": {
+        "question": "Che tipo di contenuti posso creare con Sora2?",
+        "answer": "Sora2 eccelle nella creazione di video marketing, contenuti social, materiali educativi, progetti artistici, dimostrazioni di prodotto, sequenze narrative e presentazioni professionali. Supporta sia testo-in-video che immagine-in-video."
+      },
+      "6": {
+        "question": "Come ottenere i migliori risultati con Sora2?",
+        "answer": "Per risultati ottimali: scrivi prompt dettagliati descrivendo soggetti, azioni, illuminazione e movimenti di camera; usa immagini sorgente di alta qualità; chiarisci lo stile desiderato (cinematografico, artistico, realistico); specifica dettagli come abbigliamento, ambiente e mood; sperimenta varianti di prompt."
+      },
+      "7": {
+        "question": "I miei contenuti sono sicuri e privati con Sora2?",
+        "answer": "Assolutamente. I tuoi prompt, le immagini caricate e i video generati sono crittografati e completamente privati. Non condividiamo mai i tuoi contenuti né li usiamo per l'addestramento senza permesso esplicito."
+      },
+      "8": {
+        "question": "Sora2 può mantenere la coerenza dei personaggi per tutta la durata del video?",
+        "answer": "Sì! Una delle caratteristiche più impressionanti di Sora2 è la perfetta coerenza dei personaggi. Che si generi da testo o immagini, la stessa persona o lo stesso oggetto mantiene aspetto, abbigliamento e caratteristiche identiche per tutti i 10 secondi del video."
+      }
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "Generazione video IA rivoluzionaria basata su OpenAI.",
+    "product": { "title": "Prodotto", "features": "Funzionalità", "pricing": "Prezzi", "api": "API", "docs": "Documentazione" },
+    "company": { "title": "Azienda", "about": "Chi siamo", "blog": "Blog", "careers": "Carriere", "contact": "Contatti" },
+    "legal": { "title": "Legale", "privacy": "Privacy", "terms": "Termini", "cookies": "Cookie" },
+    "copyright": "© 2025 Sora2. Tutti i diritti riservati.",
+    "social": { "twitter": "Twitter", "discord": "Discord", "github": "GitHub" }
+  },
+  "VideoGenerator": {
+    "tabs": { "textToVideo": "Testo in Video", "imageToVideo": "Immagine in Video" },
+    "history": "Cronologia",
+    "prompt": { "label": "Prompt", "placeholder": "Descrivi la scena del video..." },
+    "generate": "Genera Video",
+    "upload": { "label": "Carica Immagine", "help": "Clicca per caricare o trascina", "hint": "PNG, JPG fino a 10MB" },
+    "promptOptional": { "label": "Prompt (opzionale)", "placeholder": "Descrivi il movimento o l'azione..." },
+    "preview": { "label": "Anteprima", "empty": "Il tuo video apparirà qui" }
+  },
+  "PricingSection": {
+    "title": "Piani tariffari",
+    "description": "Abbonamenti mensili o pacchetti di crediti.",
+    "tag": { "popular": "Più popolare" },
+    "perMonth": "/ mese",
+    "includes": "Include:",
+    "cta": "Inizia",
+    "plans": {
+      "starter": { "name": "Starter", "price": "€19,90", "description": "Per creatori leggeri.", "credits": "2.500 crediti/mese", "videos": "≈ 75 video/mese" },
+      "basic": { "name": "Basic", "price": "€49,90", "description": "Valore conveniente.", "credits": "7.500 crediti/mese", "videos": "≈ 187 video/mese" },
+      "pro": { "name": "Pro", "price": "€99,90", "description": "Creazione avanzata.", "credits": "18.000 crediti/mese", "videos": "≈ 450 video/mese" },
+      "enterprise": { "name": "Enterprise", "price": "€199,90", "description": "Per team.", "credits": "40.000 crediti/mese", "videos": "≈ 1000 video/mese" }
+    }
+  },
+  "Test": { "message": "Questo è contenuto italiano - il cambio lingua funziona!" }
+}

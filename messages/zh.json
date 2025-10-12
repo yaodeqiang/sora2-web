@@ -1,0 +1,123 @@
+{
+  "Header": {
+    "pricing": "价格",
+    "generateVideo": "生成视频",
+    "signIn": "登录",
+    "signOut": "退出登录"
+  },
+  "LoginModal": {
+    "title": "登录",
+    "github": "使用 GitHub 登录",
+    "google": "使用 Google 登录"
+  },
+  "HeroSection": {
+    "title": "使用",
+    "brandName": "Sora2 官方版",
+    "description": "体验 Sora2 OpenAI 技术的革命性力量。使用我们先进的 AI 模型从文本和图像生成电影级质量的视频，受到全球创作者的信赖。",
+    "ctaButton": "开始使用 Sora2 创作"
+  },
+  "FeaturesSection": {
+    "title": "为什么选择 Sora2 AI 视频生成器",
+    "description": "革命性的 OpenAI Sora2 技术与专业视频创作完美结合。体验突破性的物理模拟、角色一致性与电影级输出，助力全球内容创作者。",
+    "features": {
+      "openai": {"title": "OpenAI Sora2 技术","description": "基于 OpenAI 最先进的视频生成模型，具备革命性的物理理解能力。"},
+      "cinema": {"title": "电影级画质","description": "生成最长 10 秒的专业 1080p 视频，并保持角色的一致性。"},
+      "physics": {"title": "高级物理模拟","description": "真实的物体运动、自然光照以及复杂场景理解。"},
+      "textImage": {"title": "文本与图像转视频","description": "将任何文本提示或图像瞬间转化为惊艳的视频内容。"},
+      "aspectRatios": {"title": "多种画幅比例","description": "支持 16:9、9:16、1:1 等多种平台适配格式。"},
+      "quality": {"title": "专业级品质","description": "广播级输出，确保视频中角色外观始终一致。"},
+      "scenes": {"title": "复杂场景生成","description": "处理多主体、精细背景以及高级镜头运动。"},
+      "creator": {"title": "创作者友好设计","description": "为内容创作者、市场营销人员与视频专业人士打造的直观界面。"},
+      "noWatermark": {"title": "无水印 Sora2 视频","description": "生成纯净、专业的视频，无任何水印或品牌标识。"}
+    }
+  },
+  "FAQSection": {
+    "title": "Sora2 AI 视频生成器：常见问题",
+    "subtitle": "关于 Sora2 AI 视频生成技术的一切，基于 OpenAI 革命性的视频生成模型。了解功能、能力、定价与最佳实践。",
+    "faqs": {
+      "1": {"question": "什么是 Sora2？它与其他 AI 视频生成器有何不同？","answer": "Sora2 是 OpenAI 的突破性 AI 视频生成模型，可生成逼真度前所未有的电影级视频。与其它生成器不同，Sora2 理解物理规律、保持角色一致性，并能在 1080p 质量下生成包含多主体、真实光照与自然运动的复杂场景，时长可达 10 秒。"},
+      "2": {"question": "Sora2 支持哪些视频格式与分辨率？","answer": "Sora2 可生成专业级 1080p 视频，支持多种画幅比例：16:9（适合 YouTube 等传统平台）、9:16（适合 TikTok、Instagram 故事与移动内容）、1:1（适配社交媒体信息流）。视频最长可达 10 秒，并能保持全程一致的质量。"},
+      "3": {"question": "Sora2 的物理模拟有多真实？","answer": "Sora2 具备革命性的物理理解能力，能够准确模拟包括重力、流体动力学、物体交互、光照变化与材质特性在内的真实世界现象。由此产生的视频极其逼真，物体的运动与行为与现实一致。"},
+      "4": {"question": "Sora2 能在整段视频中保持角色一致性吗？","answer": "可以！Sora2 的一项令人印象深刻的特性就是角色一致性。无论是文本生成还是图像生成，同一人物、物体或角色在整个 10 秒视频中都能保持外观、服饰与特征完全一致，解决了其他 AI 视频生成器难以攻克的难题。"},
+      "5": {"question": "我可以用 Sora2 创作哪些类型的内容？","answer": "Sora2 擅长创作多样化内容，包括营销视频、社交媒体内容、教育素材、艺术项目、产品演示、叙事片段与专业演示等。它同时支持文本转视频（描述你的愿景）与图像转视频（为你的照片赋予动画）。"},
+      "6": {"question": "如何获得 Sora2 的最佳生成效果？","answer": "为了获得最佳效果：请撰写详尽、具体的提示词，描述主体、动作、光照与镜头运动；使用高质量、光照良好的源图像；明确希望的风格（电影感、艺术风、写实风）；指定重要细节如服饰、环境与氛围；尝试不同的提示变体以找到最契合你愿景的表达。"},
+      "7": {"question": "使用 Sora2 是否安全且私密？","answer": "绝对安全。你的提示词、上传的图片与生成的视频都会加密并严格保密。我们不会在未明确授权的情况下与第三方共享你的内容，也不会用于训练。"},
+      "8": {"question": "Sora2 能在整段视频中保持角色一致性吗？","answer": "可以！Sora2 的一项令人印象深刻的特性就是角色一致性。无论是文本生成还是图像生成，同一人物、物体或角色在整个 10 秒视频中都能保持外观、服饰与特征完全一致，解决了其他 AI 视频生成器难以攻克的难题。"}
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "革命性的 OpenAI 技术驱动的 AI 视频生成。",
+    "product": {"title": "产品","features": "功能","pricing": "价格","api": "API","docs": "文档"},
+    "company": {"title": "公司","about": "关于我们","blog": "博客","careers": "加入我们","contact": "联系我们"},
+    "legal": {"title": "法律","privacy": "隐私政策","terms": "服务条款","cookies": "Cookie 政策"},
+    "copyright": "© 2025 Sora2。保留所有权利。",
+    "social": {"twitter": "Twitter","discord": "Discord","github": "GitHub"}
+  },
+  "VideoGenerator": {
+    "tabs": {
+      "textToVideo": "文生视频",
+      "imageToVideo": "图生视频"
+    },
+    "history": "历史记录",
+    "prompt": {
+      "label": "提示词",
+      "placeholder": "描述你的视频场景，例如：‘一只可爱的小猫在花园里玩耍……’"
+    },
+    "generate": "生成视频",
+    "upload": {
+      "label": "上传图片",
+      "help": "点击上传或拖拽到此处",
+      "hint": "支持 PNG、JPG，大小不超过 10MB"
+    },
+    "promptOptional": {
+      "label": "可选提示词",
+      "placeholder": "描述期望的运动或动作……"
+    },
+    "preview": {
+      "label": "预览",
+      "empty": "你生成的视频会显示在这里"
+    }
+  },
+  "PricingSection": {
+    "title": "价格方案",
+    "description": "支持按月订阅或一次性购买积分包，灵活满足你的创作需求。",
+    "tag": { "popular": "最受欢迎" },
+    "perMonth": "/ 月",
+    "includes": "包含：",
+    "cta": "开始使用",
+    "plans": {
+      "starter": {
+        "name": "入门版",
+        "price": "￥149",
+        "description": "适合轻量创作者，月费更实惠。",
+        "credits": "每月 2,500 积分",
+        "videos": "约 75 个视频/月"
+      },
+      "basic": {
+        "name": "基础版",
+        "price": "￥379",
+        "description": "入门级创作，性价比之选。",
+        "credits": "每月 7,500 积分",
+        "videos": "约 187 个视频/月"
+      },
+      "pro": {
+        "name": "高级版",
+        "price": "￥749",
+        "description": "面向进阶创作，更高配额与性能。",
+        "credits": "每月 18,000 积分",
+        "videos": "约 450 个视频/月"
+      },
+      "enterprise": {
+        "name": "企业版",
+        "price": "￥1,499",
+        "description": "面向团队的大规模创作。",
+        "credits": "每月 40,000 积分",
+        "videos": "约 1000 个视频/月"
+      }
+    }
+  },
+  "Test": {
+    "message": "这是中文内容 - 语言切换正常工作！"
+  }
+}

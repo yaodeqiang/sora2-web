@@ -1,0 +1,91 @@
+{
+  "Header": { "pricing": "가격", "generateVideo": "영상 생성", "signIn": "로그인", "signOut": "로그아웃" },
+  "LoginModal": { "title": "로그인", "github": "GitHub로 로그인", "google": "Google로 로그인" },
+  "HeroSection": { "title": "멋진 영상을 만들기", "brandName": "Sora2 공식", "description": "Sora2의 OpenAI 기술로 텍스트와 이미지에서 영화급 영상을 생성하세요.", "ctaButton": "Sora2 시작하기" },
+  "FeaturesSection": {
+    "title": "Sora2 AI 영상 생성기를 선택해야 하는 이유",
+    "description": "혁신적인 OpenAI Sora2 기술과 전문 영상 제작의 결합입니다.",
+    "features": {
+      "openai": { "title": "OpenAI Sora2 기술", "description": "OpenAI의 최첨단 영상 생성 모델 기반." },
+      "cinema": { "title": "영화급 화질", "description": "최대 10초 1080p, 캐릭터 일관성 유지." },
+      "physics": { "title": "고급 물리 시뮬레이션", "description": "현실적인 움직임과 복잡한 장면 이해." },
+      "textImage": { "title": "텍스트/이미지 → 영상", "description": "텍스트나 이미지를 즉시 멋진 영상으로." },
+      "aspectRatios": { "title": "다양한 비율", "description": "16:9, 9:16, 1:1 지원." },
+      "quality": { "title": "전문가급 품질", "description": "일관된 품질의 방송급 출력." },
+      "scenes": { "title": "복잡한 장면 생성", "description": "여러 피사체와 정교한 배경 처리." },
+      "creator": { "title": "크리에이터 중심", "description": "창작자와 마케터를 위한 직관적 인터페이스." },
+      "noWatermark": { "title": "워터마크 없음", "description": "워터마크 없는 순수한 영상 생성." }
+    }
+  },
+  "FAQSection": {
+    "title": "Sora2 AI 영상 생성기: 자주 묻는 질문",
+    "subtitle": "OpenAI의 혁신적인 영상 생성 모델 기반 Sora2에 대해 알아보세요.",
+    "faqs": {
+      "1": {
+        "question": "Sora2란 무엇이며 다른 AI 영상 생성기와 무엇이 다른가요?",
+        "answer": "Sora2는 영화급 품질의 영상을 전례 없는 현실감으로 생성하는 OpenAI의 혁신적 모델입니다. 물리 이해, 캐릭터 일관성 유지, 다중 피사체와 현실적인 조명/자연스러운 모션 등 복잡한 장면을 1080p, 최대 10초로 생성합니다."
+      },
+      "2": {
+        "question": "Sora2가 지원하는 영상 형식과 해상도는 무엇인가요?",
+        "answer": "Sora2는 1080p로 16:9(유튜브 등), 9:16(틱톡, 인스타 스토리 등), 1:1(소셜 피드) 비율을 지원합니다. 영상은 최대 10초이며 전체 구간에서 품질이 일관됩니다."
+      },
+      "3": {
+        "question": "Sora2의 물리 시뮬레이션은 얼마나 현실적인가요?",
+        "answer": "Sora2는 중력, 유체 역학, 객체 상호작용, 조명 변화, 재질 특성 등 현실 세계의 현상을 정확히 모사하는 혁신적인 물리 이해를 갖추고 있습니다. 덕분에 영상 속 움직임과 거동이 실제처럼 자연스럽습니다."
+      },
+      "4": {
+        "question": "영상 전체에서 캐릭터 일관성을 유지할 수 있나요?",
+        "answer": "예. Sora2의 가장 인상적인 기능 중 하나가 완벽한 캐릭터 일관성입니다. 텍스트 또는 이미지 기반이든 동일 인물/객체가 영상 10초 동안 외형, 의상, 특징을 동일하게 유지합니다."
+      },
+      "5": {
+        "question": "Sora2로 어떤 콘텐츠를 만들 수 있나요?",
+        "answer": "마케팅 영상, 소셜 콘텐츠, 교육 자료, 아트 프로젝트, 제품 데모, 스토리텔링 시퀀스, 전문 프레젠테이션 등 다양한 용도에 최적화되어 있습니다. 텍스트→영상, 이미지→영상 모두 지원합니다."
+      },
+      "6": {
+        "question": "Sora2에서 최고의 결과를 얻는 방법은?",
+        "answer": "구체적인 프롬프트(피사체, 동작, 조명, 카메라 무빙)를 작성하고, 고품질/조명 좋은 원본 이미지를 사용하세요. 원하는 스타일(시네마틱, 아트, 리얼리스틱)을 명확히 하고, 의상/환경/무드 등 중요 요소를 지정하세요. 다양한 프롬프트 변형을 실험해 최적의 결과를 찾는 것이 좋습니다."
+      },
+      "7": {
+        "question": "내 콘텐츠는 안전하고 프라이버시가 보호되나요?",
+        "answer": "물론입니다. 프롬프트, 업로드 이미지, 생성된 영상은 암호화되어 완전히 비공개로 처리됩니다. 명시적 허가 없이 제3자 공유나 학습에 사용하지 않습니다."
+      },
+      "8": {
+        "question": "영상 전체에서 캐릭터 일관성을 유지할 수 있나요?",
+        "answer": "예. Sora2의 가장 인상적인 기능 중 하나가 완벽한 캐릭터 일관성입니다. 텍스트 또는 이미지 기반이든 동일 인물/객체가 영상 10초 동안 외형, 의상, 특징을 동일하게 유지합니다."
+      }
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "OpenAI 기반 혁신적인 AI 영상 생성.",
+    "product": { "title": "제품", "features": "기능", "pricing": "가격", "api": "API", "docs": "문서" },
+    "company": { "title": "회사", "about": "회사 소개", "blog": "블로그", "careers": "채용", "contact": "문의" },
+    "legal": { "title": "법률", "privacy": "개인정보 처리방침", "terms": "이용 약관", "cookies": "쿠키 정책" },
+    "copyright": "© 2025 Sora2. 모든 권리 보유.",
+    "social": { "twitter": "트위터", "discord": "디스코드", "github": "깃허브" }
+  },
+  "VideoGenerator": {
+    "tabs": { "textToVideo": "텍스트 → 영상", "imageToVideo": "이미지 → 영상" },
+    "history": "히스토리",
+    "prompt": { "label": "프롬프트", "placeholder": "영상 장면을 설명하세요..." },
+    "generate": "영상 생성",
+    "upload": { "label": "이미지 업로드", "help": "클릭하여 업로드 또는 드래그", "hint": "PNG, JPG 최대 10MB" },
+    "promptOptional": { "label": "프롬프트 (선택)", "placeholder": "동작이나 모션을 설명..." },
+    "preview": { "label": "미리보기", "empty": "생성된 영상이 여기에 표시됩니다" }
+  },
+  "PricingSection": {
+    "title": "요금제",
+    "description": "월 구독 또는 일회성 크레딧 패키지.",
+    "tag": { "popular": "인기" },
+    "perMonth": "/ 월",
+    "includes": "포함:",
+    "cta": "시작하기",
+    "plans": {
+      "starter": { "name": "Starter", "price": "₩19,900", "description": "가벼운 창작용.", "credits": "월 2,500 크레딧", "videos": "월 약 75개" },
+      "basic": { "name": "Basic", "price": "₩49,900", "description": "가성비 우수.", "credits": "월 7,500 크레딧", "videos": "월 약 187개" },
+      "pro": { "name": "Pro", "price": "₩99,900", "description": "고급 창작.", "credits": "월 18,000 크레딧", "videos": "월 약 450개" },
+      "enterprise": { "name": "Enterprise", "price": "₩199,900", "description": "팀 규모 창작.", "credits": "월 40,000 크레딧", "videos": "월 약 1000개" }
+    }
+  },
+  "Test": { "message": "이것은 한국어 콘텐츠입니다 - 언어 전환 정상!" }
+}

@@ -1,0 +1,91 @@
+{
+  "Header": { "pricing": "定價", "generateVideo": "生成影片", "signIn": "登入", "signOut": "登出" },
+  "LoginModal": { "title": "登入", "github": "以 GitHub 登入", "google": "以 Google 登入" },
+  "HeroSection": { "title": "用 AI 輕鬆打造精彩影片", "brandName": "Sora2 官方", "description": "使用 Sora2 的 OpenAI 技術，將文字與圖片一鍵生成電影級影片。", "ctaButton": "開始使用 Sora2" },
+  "FeaturesSection": {
+    "title": "為何選擇 Sora2 AI 影片產生器",
+    "description": "結合創新 OpenAI Sora2 技術與專業級影片製作。",
+    "features": {
+      "openai": { "title": "OpenAI Sora2 技術", "description": "基於 OpenAI 最先進的影片生成模型。" },
+      "cinema": { "title": "電影級畫質", "description": "1080p、最長 10 秒，角色一致性優異。" },
+      "physics": { "title": "高階物理模擬", "description": "真實的運動與複雜場景理解。" },
+      "textImage": { "title": "文字／圖片轉影片", "description": "隨時將任何文字或圖片轉為影片。" },
+      "aspectRatios": { "title": "多種比例", "description": "支援 16:9、9:16、1:1。" },
+      "quality": { "title": "專業級品質", "description": "一致、可播出的專業輸出。" },
+      "scenes": { "title": "複雜場景", "description": "處理多主體與精緻背景。" },
+      "creator": { "title": "為創作者而生", "description": "直覺介面，適合創作者與行銷人員。" },
+      "noWatermark": { "title": "無浮水印影片", "description": "生成無浮水印的專業影片。" }
+    }
+  },
+  "FAQSection": {
+    "title": "Sora2 AI 影片產生器：常見問題",
+    "subtitle": "深入了解以 OpenAI 技術為基礎的 Sora2—功能、能力、定價與最佳實務。",
+    "faqs": {
+      "1": {
+        "question": "什麼是 Sora2？與其他 AI 影片產生器有何不同？",
+        "answer": "Sora2 是 OpenAI 的突破性 AI 影片生成模型，能以前所未見的真實感生成電影級影片。相較其他工具，Sora2 具備物理理解、角色一致性，並可生成含多主體、真實光影與自然運動的複雜場景，最長 10 秒、1080p。"
+      },
+      "2": {
+        "question": "Sora2 支援哪些影片格式與解析度？",
+        "answer": "Sora2 可輸出專業 1080p 影片，支援 16:9（適合 YouTube 等）、9:16（適合 TikTok、IG 限動、手機內容）與 1:1（社群動態）等比例。影片最長可達 10 秒，品質一致。"
+      },
+      "3": {
+        "question": "Sora2 的物理模擬有多真實？",
+        "answer": "Sora2 具有革命性的物理理解，能準確模擬重力、流體力學、物件互動、光線變化與材質性質等真實現象，使影片中的運動與行為極為逼真。"
+      },
+      "4": {
+        "question": "是否能在整段影片維持角色一致性？",
+        "answer": "可以！Sora2 最令人印象深刻的特點之一是角色的一致性。無論是文字或圖片生成，同一人物／物件在 10 秒影片中都能維持相同外觀、服裝與特徵。"
+      },
+      "5": {
+        "question": "我可以用 Sora2 創作哪些內容？",
+        "answer": "Sora2 擅長創作行銷影片、社群內容、教育素材、藝術專案、產品示範、敘事片段與專業簡報等。支援文字轉影片與圖片轉影片兩種模式。"
+      },
+      "6": {
+        "question": "如何獲得最佳生成效果？",
+        "answer": "建議撰寫具體詳盡的提示詞（主體、動作、燈光、運鏡），使用高品質且光線良好的來源圖片；清楚描述風格（電影、藝術、寫實），並指定服裝、環境、氛圍等重點細節；嘗試不同提示詞變化以找到最適合的表現。"
+      },
+      "7": {
+        "question": "我的內容在 Sora2 是否安全、具隱私？",
+        "answer": "完全安全。您所有的提示詞、上傳圖片與生成影片皆會加密且保持私密。我們不會在未取得明確同意的情況下分享或用於訓練。"
+      },
+      "8": {
+        "question": "是否能在整段影片維持角色一致性？",
+        "answer": "可以！Sora2 最令人印象深刻的特點之一是角色的一致性。無論是文字或圖片生成，同一人物／物件在 10 秒影片中都能維持相同外觀、服裝與特徵。"
+      }
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "以 OpenAI 為基礎的創新 AI 影片生成。",
+    "product": { "title": "產品", "features": "功能", "pricing": "定價", "api": "API", "docs": "文件" },
+    "company": { "title": "公司", "about": "關於我們", "blog": "部落格", "careers": "徵才", "contact": "聯絡" },
+    "legal": { "title": "法律", "privacy": "隱私權政策", "terms": "服務條款", "cookies": "Cookie 政策" },
+    "copyright": "© 2025 Sora2. 版權所有。",
+    "social": { "twitter": "Twitter", "discord": "Discord", "github": "GitHub" }
+  },
+  "VideoGenerator": {
+    "tabs": { "textToVideo": "文字轉影片", "imageToVideo": "圖片轉影片" },
+    "history": "歷史紀錄",
+    "prompt": { "label": "提示詞", "placeholder": "描述影片場景..." },
+    "generate": "生成影片",
+    "upload": { "label": "上傳圖片", "help": "點擊上傳或拖曳", "hint": "PNG、JPG 最大 10MB" },
+    "promptOptional": { "label": "提示詞（選填）", "placeholder": "描述動作或運鏡..." },
+    "preview": { "label": "預覽", "empty": "生成的影片將顯示在此" }
+  },
+  "PricingSection": {
+    "title": "方案定價",
+    "description": "月訂閱或一次性點數包。",
+    "tag": { "popular": "最受歡迎" },
+    "perMonth": "/ 月",
+    "includes": "包含：",
+    "cta": "開始",
+    "plans": {
+      "starter": { "name": "入門", "price": "NT$590", "description": "輕度創作。", "credits": "每月 2,500 點數", "videos": "每月約 75 支" },
+      "basic": { "name": "基本", "price": "NT$1,490", "description": "高 CP 值。", "credits": "每月 7,500 點數", "videos": "每月約 187 支" },
+      "pro": { "name": "專業", "price": "NT$2,990", "description": "進階創作。", "credits": "每月 18,000 點數", "videos": "每月約 450 支" },
+      "enterprise": { "name": "企業", "price": "NT$5,990", "description": "團隊使用。", "credits": "每月 40,000 點數", "videos": "每月約 1000 支" }
+    }
+  },
+  "Test": { "message": "這是繁體中文內容－語言切換正常！" }
+}

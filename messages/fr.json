@@ -1,0 +1,91 @@
+{
+  "Header": { "pricing": "Tarifs", "generateVideo": "Générer une vidéo", "signIn": "Se connecter", "signOut": "Se déconnecter" },
+  "LoginModal": { "title": "Se connecter", "github": "Se connecter avec GitHub", "google": "Se connecter avec Google" },
+  "HeroSection": { "title": "Créez des vidéos époustouflantes avec", "brandName": "Sora2 Officiel", "description": "Découvrez la puissance révolutionnaire de la technologie OpenAI de Sora2. Générez des vidéos de qualité cinéma à partir de texte et d'images.", "ctaButton": "Commencer avec Sora2" },
+  "FeaturesSection": {
+    "title": "Pourquoi choisir le générateur vidéo IA Sora2",
+    "description": "La technologie OpenAI Sora2 révolutionnaire rencontre la création vidéo professionnelle.",
+    "features": {
+      "openai": { "title": "Technologie OpenAI Sora2", "description": "Propulsé par le modèle de génération vidéo le plus avancé d'OpenAI." },
+      "cinema": { "title": "Qualité cinéma", "description": "Générez des vidéos 1080p jusqu'à 10 secondes avec cohérence des personnages." },
+      "physics": { "title": "Simulation physique avancée", "description": "Mouvements réalistes et compréhension de scènes complexes." },
+      "textImage": { "title": "Texte & Image vers Vidéo", "description": "Transformez immédiatement tout texte ou image en vidéo." },
+      "aspectRatios": { "title": "Multiples formats", "description": "Support 16:9, 9:16 et 1:1 pour toutes plateformes." },
+      "quality": { "title": "Qualité professionnelle", "description": "Sortie prête pour la diffusion, cohérente sur toute la vidéo." },
+      "scenes": { "title": "Génération de scènes complexes", "description": "Gère plusieurs sujets et arrière-plans sophistiqués." },
+      "creator": { "title": "Pensé pour les créateurs", "description": "Interface intuitive pour créateurs et marketeurs." },
+      "noWatermark": { "title": "Vidéos sans filigrane", "description": "Générez des vidéos professionnelles sans filigrane." }
+    }
+  },
+  "FAQSection": {
+    "title": "Générateur vidéo IA Sora2 : FAQ",
+    "subtitle": "Tout ce qu'il faut savoir sur Sora2 et la génération vidéo IA.",
+    "faqs": {
+      "1": {
+        "question": "Qu'est-ce que Sora2 et en quoi se distingue-t-il des autres générateurs vidéo IA ?",
+        "answer": "Sora2 est le modèle révolutionnaire d'OpenAI pour générer des vidéos de qualité cinéma avec un réalisme inédit. Contrairement aux autres générateurs, Sora2 comprend la physique, maintient la cohérence des personnages et génère des scènes complexes avec plusieurs sujets, un éclairage réaliste et des mouvements naturels, jusqu'à 10 secondes en 1080p."
+      },
+      "2": {
+        "question": "Quels formats et résolutions vidéo Sora2 prend-il en charge ?",
+        "answer": "Sora2 génère des vidéos professionnelles en 1080p dans plusieurs formats : 16:9 (YouTube et plateformes classiques), 9:16 (TikTok, Stories Instagram et contenus mobiles) et 1:1 (flux des réseaux sociaux). Les vidéos peuvent durer jusqu'à 10 secondes avec une qualité constante."
+      },
+      "3": {
+        "question": "À quel point les simulations physiques de Sora2 sont-elles réalistes ?",
+        "answer": "Sora2 possède une compréhension révolutionnaire de la physique qui simule fidèlement des phénomènes réels : gravité, dynamique des fluides, interactions d'objets, variations d'éclairage et propriétés des matériaux. Les vidéos paraissent extrêmement réalistes, avec des mouvements et comportements naturels."
+      },
+      "4": {
+        "question": "Sora2 peut-il maintenir la cohérence des personnages sur toute la vidéo ?",
+        "answer": "Oui ! L'une des fonctionnalités les plus impressionnantes de Sora2 est la cohérence parfaite des personnages. Qu'il s'agisse de texte ou d'image, la même personne ou le même objet conserve apparence, vêtements et caractéristiques identiques tout au long de la vidéo de 10 secondes."
+      },
+      "5": {
+        "question": "Quels types de contenus puis-je créer avec Sora2 ?",
+        "answer": "Sora2 excelle pour créer des vidéos marketing, contenus sociaux, matériaux éducatifs, projets artistiques, démonstrations de produits, séquences narratives et présentations professionnelles. Il gère à la fois le texte-vers-vidéo et l'image-vers-vidéo."
+      },
+      "6": {
+        "question": "Comment obtenir les meilleurs résultats avec Sora2 ?",
+        "answer": "Pour des résultats optimaux : écrivez des invites détaillées décrivant sujets, actions, éclairage et mouvements de caméra ; utilisez des images source de haute qualité ; précisez le style souhaité (cinématographique, artistique, réaliste) ; spécifiez des détails comme vêtements, environnement et ambiance ; testez différentes variantes d'invite."
+      },
+      "7": {
+        "question": "Mon contenu est-il sécurisé et privé avec Sora2 ?",
+        "answer": "Absolument. Vos invites, images et vidéos générées sont chiffrées et totalement privées. Nous ne partageons jamais votre contenu ni ne l'utilisons pour l'entraînement sans permission explicite."
+      },
+      "8": {
+        "question": "Sora2 peut-il maintenir la cohérence des personnages sur toute la vidéo ?",
+        "answer": "Oui ! L'une des fonctionnalités les plus impressionnantes de Sora2 est la cohérence parfaite des personnages. Qu'il s'agisse de texte ou d'image, la même personne ou le même objet conserve apparence, vêtements et caractéristiques identiques tout au long de la vidéo de 10 secondes."
+      }
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "Génération vidéo IA révolutionnaire propulsée par OpenAI.",
+    "product": { "title": "Produit", "features": "Fonctionnalités", "pricing": "Tarifs", "api": "API", "docs": "Documentation" },
+    "company": { "title": "Entreprise", "about": "À propos", "blog": "Blog", "careers": "Carrières", "contact": "Contact" },
+    "legal": { "title": "Légal", "privacy": "Confidentialité", "terms": "Conditions", "cookies": "Cookies" },
+    "copyright": "© 2025 Sora2. Tous droits réservés.",
+    "social": { "twitter": "Twitter", "discord": "Discord", "github": "GitHub" }
+  },
+  "VideoGenerator": {
+    "tabs": { "textToVideo": "Texte vers Vidéo", "imageToVideo": "Image vers Vidéo" },
+    "history": "Historique",
+    "prompt": { "label": "Invite", "placeholder": "Décrivez votre scène vidéo..." },
+    "generate": "Générer la vidéo",
+    "upload": { "label": "Téléverser une image", "help": "Cliquez pour téléverser ou glisser-déposer", "hint": "PNG, JPG jusqu'à 10MB" },
+    "promptOptional": { "label": "Invite (optionnel)", "placeholder": "Décrivez le mouvement ou l'action..." },
+    "preview": { "label": "Aperçu", "empty": "Votre vidéo apparaîtra ici" }
+  },
+  "PricingSection": {
+    "title": "Formules tarifaires",
+    "description": "Abonnement mensuel ou packs de crédits à l'achat.",
+    "tag": { "popular": "Le plus populaire" },
+    "perMonth": "/ mois",
+    "includes": "Comprend :",
+    "cta": "Commencer",
+    "plans": {
+      "starter": { "name": "Starter", "price": "€19,90", "description": "Pour les créateurs légers.", "credits": "2 500 crédits / mois", "videos": "≈ 75 vidéos/mois" },
+      "basic": { "name": "Basic", "price": "€49,90", "description": "Création d'entrée de gamme.", "credits": "7 500 crédits / mois", "videos": "≈ 187 vidéos/mois" },
+      "pro": { "name": "Pro", "price": "€99,90", "description": "Création avancée.", "credits": "18 000 crédits / mois", "videos": "≈ 450 vidéos/mois" },
+      "enterprise": { "name": "Enterprise", "price": "€199,90", "description": "Création à grande échelle.", "credits": "40 000 crédits / mois", "videos": "≈ 1000 vidéos/mois" }
+    }
+  },
+  "Test": { "message": "Ceci est du contenu français - le changement de langue fonctionne !" }
+}
