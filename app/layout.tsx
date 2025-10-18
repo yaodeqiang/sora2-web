@@ -11,10 +11,13 @@ import { locales, defaultLocale } from '../i18n/i18n-config'
 import { headers, cookies } from 'next/headers'
 
 export const metadata: Metadata = {
-  title: "Sora2 - OpenAI Cinema-Quality Video Generator",
+  title: "Video Generator",
   description:
-    "Create stunning videos with Sora2 Official. Experience the revolutionary power of Sora2's OpenAI technology. Generate cinema-quality videos from text and images.",
-  generator: "v0.app",
+ "Create stunning videos with Sora2 — an independent, third-party tool inspired by OpenAI technology. Generate cinema-quality videos from text and images.",
+  generator: "",
+  icons: {
+    icon: "/futuristic-city-neon.png"
+  },
 }
 
 export default async function RootLayout({

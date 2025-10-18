@@ -12,8 +12,8 @@
   },
   "HeroSection": {
     "title": "Create Stunning Videos with",
-    "brandName": "Sora2 Official",
-    "description": "Experience the revolutionary power of Sora2's OpenAI technology. Generate cinema-quality videos from text and images with our advanced AI model trusted by creators worldwide.",
+    "brandName": "Sora2 (Independent)",
+    "description": "Create with Sora2 — an independent, third-party tool inspired by OpenAI technology. Generate cinema-quality videos from text and images with our advanced AI model.",
     "ctaButton": "Start Creating with Sora2"
   },
   "FeaturesSection": {
@@ -191,5 +191,43 @@
   },
   "Test": {
     "message": "This is English content - Language switch is working!"
+  }
+  ,
+  "LegalPages": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "We respect your privacy and explain how we collect, use, and protect your information.",
+      "dataWeCollect": { "title": "Information We Collect", "desc": "Account details, usage logs, payment records (via providers), and content you upload." },
+      "howWeUse": { "title": "How We Use Information", "desc": "Provide and improve services, prevent abuse, comply with legal obligations." },
+      "sharing": { "title": "Sharing & Disclosure", "desc": "We do not sell data. We only share with trusted processors when necessary and lawful." },
+      "security": { "title": "Security", "desc": "We implement technical and organizational measures to protect your data." },
+      "rights": { "title": "Your Rights", "desc": "You may request access, correction, deletion, or portability subject to law." },
+      "contact": { "title": "Contact", "desc": "For privacy requests, please contact us using the methods on the Contact page." }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms govern the use of our services. By using the site, you agree to them.",
+      "use": { "title": "Acceptable Use", "desc": "No illegal, harmful, infringing, or misleading activities. We may suspend for violations." },
+      "account": { "title": "Accounts", "desc": "Keep credentials secure and accurate; you are responsible for activities under your account." },
+      "billing": { "title": "Billing", "desc": "Prices and billing cycles are shown on the site. Taxes may apply." },
+      "prohibited": { "title": "Prohibited Content", "desc": "No deepfakes for harm, adult content, incitement, illegal products, or IP infringement." },
+      "ip": { "title": "Intellectual Property", "desc": "You retain rights to your content; you grant us necessary rights to provide the service." },
+      "limitation": { "title": "Disclaimers & Limitation", "desc": "Service is provided as-is; to the extent allowed by law, our liability is limited." }
+    },
+    "refund": {
+      "title": "Refund Policy",
+      "intro": "We aim for fair refunds. Please read eligibility and process before purchasing.",
+      "eligibility": { "title": "Eligibility", "desc": "Refunds may be granted for duplicate charges or unused credits within 7 days." },
+      "process": { "title": "Process", "desc": "Submit a request with order details. We review and respond within 5 business days." },
+      "timing": { "title": "Timing", "desc": "Approved refunds are issued to the original payment method; timelines depend on provider." },
+      "contact": { "title": "Contact", "desc": "If you have questions, contact us through the Contact page before filing a chargeback." }
+    }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "intro": "Reach out for support, billing, or legal inquiries.",
+    "email": { "title": "Email", "desc": "Support: support@example.com (replace with your official address)." },
+    "support": { "title": "Support", "desc": "We aim to respond within 2 business days for normal requests." },
+    "company": { "title": "Company Info", "desc": "If applicable, list your registered business name, address, and tax ID." }
   }
 }

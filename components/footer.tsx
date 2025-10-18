@@ -70,7 +70,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-600 hover:text-purple-600 text-sm">
+                <Link href="/contact" className="text-gray-600 hover:text-purple-600 text-sm">
                   {t('company.contact')}
                 </Link>
               </li>
@@ -82,17 +82,17 @@ export function Footer() {
             <h3 className="text-gray-900 font-semibold mb-4">{t('legal.title')}</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#" className="text-gray-600 hover:text-purple-600 text-sm">
+                <Link href="/privacy" className="text-gray-600 hover:text-purple-600 text-sm">
                   {t('legal.privacy')}
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-600 hover:text-purple-600 text-sm">
+                <Link href="/terms" className="text-gray-600 hover:text-purple-600 text-sm">
                   {t('legal.terms')}
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-600 hover:text-purple-600 text-sm">
+                <Link href="/refund" className="text-gray-600 hover:text-purple-600 text-sm">
                   {t('legal.cookies')}
                 </Link>
               </li>

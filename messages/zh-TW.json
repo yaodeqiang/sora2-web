@@ -1,7 +1,7 @@
 {
   "Header": { "pricing": "定價", "generateVideo": "生成影片", "signIn": "登入", "signOut": "登出" },
   "LoginModal": { "title": "登入", "github": "以 GitHub 登入", "google": "以 Google 登入" },
-  "HeroSection": { "title": "用 AI 輕鬆打造精彩影片", "brandName": "Sora2 官方", "description": "使用 Sora2 的 OpenAI 技術，將文字與圖片一鍵生成電影級影片。", "ctaButton": "開始使用 Sora2" },
+  "HeroSection": { "title": "用 AI 輕鬆打造精彩影片", "brandName": "Sora2（第三方獨立工具）", "description": "使用 Sora2 —— 一款獨立第三方工具，靈感源自 OpenAI 技術，可將文字與圖片生成電影級影片。", "ctaButton": "開始使用 Sora2" },
   "FeaturesSection": {
     "title": "為何選擇 Sora2 AI 影片產生器",
     "description": "結合創新 OpenAI Sora2 技術與專業級影片製作。",
